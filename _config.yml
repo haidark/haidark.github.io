@@ -6,7 +6,7 @@ title: Haidar Khan # the website title (if blank, full name will be used instead
 first_name: Haidar
 middle_name: K.
 last_name: Khan
-email: {firstname}{lastinitial}{at}gmail.com
+email: \{firstnam\}\{lastinitial\}@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Haidar's personal website. Opinions are my own.
 footer_text: >
