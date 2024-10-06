@@ -69,26 +69,26 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-acm_id: https://dl.acm.org/profile/99660206551 # your dl.acm.org/profile/id
+acm_id: 99660206551 # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
 dblp_url: https://dblp.org/pid/155/3116.html # your DBLP profile url
-discord_id: haidark#0695 # your discord id (18-digit unique numerical identifier)
-facebook_id: https://www.facebook.com/haidar.khan.142/ # your facebook id
+discord_id: haidark1 # your discord id (18-digit unique numerical identifier)
+facebook_id: haidar.khan.142/ # your facebook id
 flickr_id: # your flickr id
 github_username: haidark # your GitHub user name
 gitlab_username: # your GitLab user name
-ieee_id: https://ieeexplore.ieee.org/author/37088931445 # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+ieee_id: 37088931445 # your ieeexplore.ieee.org/author/id
+inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: https://www.linkedin.com/in/haidark/ # your LinkedIn user name
+linkedin_username: haidark # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: https://orcid.org/0000-0003-1617-3208 # your ORCID ID
+# orcid_id: 0000-0003-1617-3208 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
@@ -96,7 +96,7 @@ quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
 scholar_userid: 93HiHjIAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
-semanticscholar_id: https://www.semanticscholar.org/author/Haidar-Khan/144165565 # your Semantic Scholar ID
+semanticscholar_id: Haidar-Khan/144165565 # your Semantic Scholar ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
@@ -111,7 +111,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Best to reach me by email or on X (formerly Twitter).
+  Best to reach out to me on X (formerly Twitter) or hit me up on Discord.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
