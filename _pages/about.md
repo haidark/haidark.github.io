@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Scientist (formerly <a href='https://sdaia.gov.sa/en/default.aspx'>SDAIA</a> (KSA), <a href='https://www.amazon.science/'>Amazon </a>). CTO at <a href='https://www.aiastrolabe.com/'>ai.astrolabe</a>. Building to scale smarter, not harder.
 
 profile:
   align: right
