@@ -6,20 +6,18 @@ subtitle: Research Scientist (formerly <a href='https://sdaia.gov.sa/en/default.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Kingston, New York 12401</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interests are mainly focused around machine learning on time series data. Previously, I worked on applying machine learning to medical time series. Recently, I have begun working on natural language understanding problems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my PhD with the Data Science Research Center (DSRC) at Rensselaer Polytechnic Institute (RPI). My work with Prof. Bülent Yener focused on developing methods specially designed for classifying, predicting, and analyzing medical data. We worked in collaboration with a team of doctors from the Mount Sinai Hospital and the Icahn School of Medicine at Mount Sinai. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Alongside my research with the DSRC, I have worked as a researcher with a number of tech companies. As an intern at IBM Research for two summers, I explored the scalability limitations of existing parallel training algorithms for deep neural networks on IBM's HPC and developed communication schemes to circumvent those limitations. Recently, I worked with Siemens Corporate Technology to develop methods to parallelize the training of multiagent reinforcement learning systems.
