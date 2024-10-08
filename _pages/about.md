@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist (formerly <a href='https://sdaia.gov.sa/en/default.aspx'>SDAIA</a> (KSA), <a href='https://www.amazon.science/'>Amazon </a>). CTO at <a href='https://www.aiastrolabe.com/'>ai.astrolabe</a>. Building to scale smarter, not harder.
+subtitle: Research Scientist (<a href='https://sdaia.gov.sa/en/default.aspx'>SDAIA</a> (current), <a href='https://www.amazon.science/'>Amazon </a>). CTO at <a href='https://www.aiastrolabe.com/'>ai.astrolabe</a>. Interested in building AI by scaling smarter, not harder.
 
 profile:
   align: right
@@ -16,8 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research interests are mainly focused around machine learning on time series data. Previously, I worked on applying machine learning to medical time series. Recently, I have begun working on natural language understanding problems.
+My research interests cover a broad range of topics in NLP and machine learning. My recent work is mainly focused around understanding how to build efficient ([small](https://arxiv.org/abs/2010.05002)/[fast](https://arxiv.org/abs/2010.03714)) models efficiently (without breaking the [compute bank](https://arxiv.org/abs/2407.15390)) for NLP tasks. I am also excited about [ZeroSumEval](https://github.com/haidark/ZeroSumEval), a project we started to scale evaluation of LLMs with compute and capabilties. 
 
-I completed my PhD with the Data Science Research Center (DSRC) at Rensselaer Polytechnic Institute (RPI). My work with Prof. Bülent Yener focused on developing methods specially designed for classifying, predicting, and analyzing medical data. We worked in collaboration with a team of doctors from the Mount Sinai Hospital and the Icahn School of Medicine at Mount Sinai. 
+I've had the privilege of pursuing this work with amazing colleages at industry and academia. Most recently, I spent a year with the National Center of AI (NCAI) at the Saudi Data and AI Authority (SDAIA) as a visiting scientist doing research and building ALLaM, a large language model (LLM) for Arabic and English. Prior to that, I was a senior applied scientist at Amazon Alexa AI conducting research in NLP topics (semantic parsing, efficient modeling) and helped build [AlexaTM](https://arxiv.org/abs/2208.01448), Amazon's precursor to Amazon General Intelligence.
 
-Alongside my research with the DSRC, I have worked as a researcher with a number of tech companies. As an intern at IBM Research for two summers, I explored the scalability limitations of existing parallel training algorithms for deep neural networks on IBM's HPC and developed communication schemes to circumvent those limitations. Recently, I worked with Siemens Corporate Technology to develop methods to parallelize the training of multiagent reinforcement learning systems.
+I completed my PhD with the Data Science Research Center (DSRC) at Rensselaer Polytechnic Institute (RPI). My work with Prof. Bülent Yener focused on developing methods specially designed for classifying, predicting, and analyzing medical data. I was fortunate to work closely with a team of doctors from the Mount Sinai Hospital Epilepsy Center and witness the impact of my work on patient care.
+
+The rest of my time is dedicated to my family and pursuing my other passions; learning (human) langauges (4 so far), [Quran](https://www.youtube.com/watch?v=aQkX-Cr2p-w&ab_channel=MasjidUmar) and Arabic poetry, riding horses (western), and hunting.
