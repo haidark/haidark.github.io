@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist (<a href='https://sdaia.gov.sa/en/default.aspx'>SDAIA</a> (current), <a href='https://www.amazon.science/'>Amazon </a>). CTO at <a href='https://www.aiastrolabe.com/'>ai.astrolabe</a>. Interested in building AI by scaling smarter, not harder.
+subtitle: Research Scientist (<a href='https://sdaia.gov.sa/en/default.aspx'>SDAIA</a> (current), <a href='https://www.amazon.science/'>Amazon </a>). CTO and co-founder at <a href='https://www.aiastrolabe.com/'>ai.astrolabe</a>.
 
 profile:
   align: right
