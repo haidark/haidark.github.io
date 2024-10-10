@@ -22,6 +22,6 @@ I've had the privilege of pursuing this work with amazing colleages at industry 
 
 Prior to that, I was a senior applied scientist at Amazon Alexa AI conducting research in NLP topics (semantic parsing, efficient modeling) and helped build [Alexa Teacher Models](https://arxiv.org/abs/2208.01448), Amazon's precursor to Amazon General Intelligence.
 
-I completed my PhD with the Data Science Research Center (DSRC) at Rensselaer Polytechnic Institute (RPI). My work with Prof. Bülent Yener focused on developing methods specially designed for classifying, predicting, and analyzing medical data. I was fortunate to work closely with a team of doctors from the Mount Sinai Hospital Epilepsy Center and witness the impact of my work on patient care.
+I completed my PhD with the Data Science Research Center (DSRC) at Rensselaer Polytechnic Institute (RPI). My work with [Prof. Bülent Yener](https://www.cs.rpi.edu/~yener/) focused on developing methods specially designed for classifying, predicting, and analyzing medical data. I was fortunate to work closely with a team of doctors from the Mount Sinai Hospital Epilepsy Center and witness the impact of my work on patient care.
 
 The rest of my time is dedicated to my family and pursuing my other passions; learning (human) langauges (4 so far), [Quran](https://www.youtube.com/watch?v=aQkX-Cr2p-w&ab_channel=MasjidUmar) and Arabic poetry, riding horses (western), and hunting.
