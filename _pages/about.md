@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist (<a href='https://sdaia.gov.sa/en/default.aspx'>SDAIA</a> (current), <a href='https://www.amazon.science/'>Amazon </a>). CTO and co-founder at <a href='https://www.aiastrolabe.com/'>ai.astrolabe</a>.
+subtitle: Research Scientist (<a href='https://sdaia.gov.sa/en/default.aspx'>SDAIA</a> (current), <a href='https://www.amazon.science/'>Amazon </a>). CTO and co-founder at <a href='https://www.aiastrolabe.com/'>ai.astrolabe</a>. Partner at <a href='https://khantet.com/'>KhanTeT</a>.
 
 profile:
   align: right
